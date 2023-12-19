@@ -43,7 +43,7 @@ Feel free to explore my repositories to see more of my work!
 Let's connect and build something amazing together! 😊
 
 <div>
-  <img src="https://github.com/BrunoBianchi/BrunoBianchi/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/BrunoBianchi/BrunoBianchi/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
 
 
