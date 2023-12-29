@@ -17,7 +17,7 @@ I'm Bruno Bianchi, a passionate 21-year-old programmer currently pursuing a degr
 - 💻 My love for programming keeps me engaged in various projects and coding adventures.
 - 🚧 I'm constantly learning and exploring new technologies to expand my skill set.
 - 🎓 Future Computer Engineer in the making!
-
+- 🛠️ Working at @AsimovJr
 ## Tech Stack
 
 Here are some technologies I'm familiar with:
