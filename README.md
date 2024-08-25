@@ -22,15 +22,10 @@ I'm Bruno Bianchi, a passionate 21-year-old programmer currently pursuing a degr
 
 Here are some technologies I'm familiar with:
 
-- 🖥️ Node js, Nest js, TypeScript, Mongo DB, Prisma DB, Firebase
+- ⌨️ Typescript, Javascript, Java, Python, R, Haskell,  
+- 🖥️ Node.js, Nest.js, Mongo DB, Prisma DB, Firebase, PostgreSQL
 - 🌐 Angular
 - 🛠️ Vs Code
-
-## Projects
-
-- 🚀 [Project 1]: Brief description and link to the repository.
-- 🌐 [Project 2]: Brief description and link to the repository.
-- 📱 [Project 3]: Brief description and link to the repository.
 
 Feel free to explore my repositories to see more of my work!
 
