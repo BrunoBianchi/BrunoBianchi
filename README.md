@@ -11,6 +11,13 @@ I'm Bruno Bianchi, a passionate 21-year-old programmer currently pursuing a degr
 </div>
 
  <!--START_SECTION:waka-->
+
+```txt
+Java     40 mins         █████████████████▒░░░░░░░   69.50 %
+Python   16 mins         ███████░░░░░░░░░░░░░░░░░░   28.66 %
+Other    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+```
+
 <!--END_SECTION:waka-->
 
 ## About Me
