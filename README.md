@@ -1,6 +1,19 @@
 # Hi there! 👋
 
-I'm Bruno Bianchi, a passionate 21-year-old programmer currently pursuing a degree in Computer Engineering at [Universidade Federal de Itajubá] (Unifei). 🚀
+I'm **Bruno Bianchi**, a passionate programmer pursuing a degree in **Computer Engineering** at [Universidade Federal de Itajubá (UNIFEI)](https://www.unifei.edu.br). 🚀
+
+## About Me
+
+I’m a **Full Stack Developer** at [AsimovJr](https://github.com/Asimovjr), with a strong passion for technology, programming, and solving complex challenges. My journey in the tech world began over seven years ago, and I've since gained expertise in:
+
+- **Languages**: TypeScript, JavaScript, Java, Python, R, Haskell
+- **Back-End**: Node.js, Nest.js, Prisma, MongoDB, PostgreSQL, Firebase
+- **Front-End**: Angular
+- **Tools**: VS Code, Git
+
+I’m also actively engaged in a **Research & Development (R&D) project**, focusing on cutting-edge technology solutions aimed at solving complex industry challenges. This project has deepened my understanding of innovation processes and practical application of advanced tech skills, reinforcing my commitment to driving impactful solutions.
+
+I’m always eager to explore new technologies, improve my skills, and contribute to innovative projects.
 
  <!--START_SECTION:waka-->
 
@@ -19,34 +32,20 @@ Bash         11 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-## About Me
 
-- 🌱 I'm currently a student at Unifei, diving deep into the world of Computer Engineering.
-- 💻 My love for programming keeps me engaged in various projects and coding adventures.
-- 🚧 I'm constantly learning and exploring new technologies to expand my skill set.
-- 🎓 Future Computer Engineer in the making!
-- 🛠️ FullStack developer working at <a href="https://github.com/Asimovjr">AsimovJr</a>
-## Tech Stack
-
-Here are some technologies I'm familiar with:
-
-- ⌨️ Typescript, Javascript, Java, Python, R, Haskell,  
-- 🖥️ Node.js, Nest.js, Mongo DB, Prisma DB, Firebase, PostgreSQL
-- 🌐 Angular
-- 🛠️ Vs Code
-
-Feel free to explore my repositories to see more of my work!
-
-## Connect with Me
+## Let's Connect
 
 - 📧 Email: bruno.raiadobian@gmail.com
-- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/bruno-bianchi-65a442268/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bruno-bianchi-65a442268/)
 
-
-Let's connect and build something amazing together! 😊
+Feel free to reach out for collaborations, ideas, or any interesting opportunities. Let’s build something amazing together!
 
 <div>
   <img src="https://github.com/BrunoBianchi/BrunoBianchi/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
+
+
+
+
 
 
