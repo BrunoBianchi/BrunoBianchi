@@ -10,6 +10,8 @@ I'm Bruno Bianchi, a passionate 21-year-old programmer currently pursuing a degr
 </a>
 </div>
 
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## About Me
 
