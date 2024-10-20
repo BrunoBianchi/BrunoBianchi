@@ -11,7 +11,7 @@ I’m a **Full Stack Developer** at [AsimovJr](https://github.com/Asimovjr), wit
 - **Front-End**: Angular
 - **Tools**: VS Code, Git
 
-I’m also actively engaged in a **Research & Development (R&D) project**, focusing on cutting-edge technology solutions aimed at solving complex industry challenges. This project has deepened my understanding of innovation processes and practical application of advanced tech skills, reinforcing my commitment to driving impactful solutions.
+I’m also actively working on a **Research & Development (R&D) project** for **Vertis**, focused on developing an **automated mobile network monitoring solution**. This project leverages **Artificial Intelligence (AI)** methods to optimize and improve network performance, providing real-time monitoring and analysis.
 
 I’m always eager to explore new technologies, improve my skills, and contribute to innovative projects.
 
