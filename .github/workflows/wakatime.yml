@@ -19,12 +19,10 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }} # required
           ### meta
           API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME # optional
           ### content
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
-          CODE_LANG: rust # optional
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
@@ -38,6 +36,6 @@ jobs:
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: YOUR_NAME # optional
-          AUTHOR_EMAIL: YOUR@EMAIL.com # optional
+          AUTHOR_NAME: Bruno_Bianchi # optional
+          AUTHOR_EMAIL: bruno.raiadobian@gmail.com # optional
           # you can populate email-id with secrets instead
