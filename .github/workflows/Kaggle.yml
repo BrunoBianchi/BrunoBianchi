@@ -5,8 +5,7 @@ on:
     branches:
       - main
   schedule:
-    # You can change the cron expression to suit your needs
-    - cron: "11 11 1 * *" # 11:11 AM on the 1st of every month
+    - cron: "17 11 * * *"
   workflow_dispatch:
 
 jobs:
@@ -28,10 +27,7 @@ jobs:
       - name: Use Kaggle Badges Action
         uses: spider-man-tm/kaggle-badges@v1.2.6
         with:
-          # ex. user_name: spidermandance
-          user_name: "brunoraiado"
-          # example of using GitHub Secrets
-          # user_name: ${{ secrets.KAGGLE_USERNAME }}
+          user_name: brunoraiado
 
       - name: Commit and Push SVG files
         run: |
