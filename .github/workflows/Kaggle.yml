@@ -22,6 +22,8 @@ jobs:
           node-version: "20"
 
       - name: Install Puppeteer browser
+        env:
+          PUPPETEER_CHROMIUM_REVISION: 1290666
         run: |
           export PUPPETEER_CACHE_DIR=$(npm config get cache)/puppeteer
           npx puppeteer browsers install chrome
