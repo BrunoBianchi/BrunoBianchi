@@ -22,9 +22,13 @@ jobs:
           node-version: "20"
 
       - name: Install Puppeteer browser
-        run: npx puppeteer browsers install chrome
+        run: |
+          export PUPPETEER_CACHE_DIR=$(npm config get cache)/puppeteer
+          npx puppeteer browsers install chrome
 
       - name: Use Kaggle Badges Action
+        env:
+          PUPPETEER_CACHE_DIR: $(npm config get cache)/puppeteer
         uses: spider-man-tm/kaggle-badges@v1.2.6
         with:
           user_name: brunoraiado
