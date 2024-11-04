@@ -5,7 +5,8 @@ on:
     branches:
       - main
   schedule:
-    - cron: "17 11 * * *"
+    # You can change the cron expression to suit your needs
+    - cron: "11 11 1 * *" # 11:11 AM on the 1st of every month
   workflow_dispatch:
 
 jobs:
@@ -21,20 +22,16 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Install Puppeteer with specific Chrome version
-        env:
-          PUPPETEER_CACHE_DIR: /home/runner/.cache/puppeteer
-          PUPPETEER_CHROMIUM_REVISION: 1290666  # Especifica a versão do Chrome
-        run: |
-          mkdir -p $PUPPETEER_CACHE_DIR
-          npx puppeteer browsers install chrome
+      - name: Install Puppeteer browser
+        run: npx puppeteer browsers install chrome@129.0.6668.70
 
       - name: Use Kaggle Badges Action
-        env:
-          PUPPETEER_CACHE_DIR: /home/runner/.cache/puppeteer
         uses: spider-man-tm/kaggle-badges@v1.2.6
         with:
+          # ex. user_name: spidermandance
           user_name: brunoraiado
+          # example of using GitHub Secrets
+          # user_name: ${{ secrets.KAGGLE_USERNAME }}
 
       - name: Commit and Push SVG files
         run: |
