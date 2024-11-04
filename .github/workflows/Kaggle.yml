@@ -21,16 +21,17 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Install Puppeteer browser
+      - name: Install Puppeteer with specific Chrome version
         env:
-          PUPPETEER_CHROMIUM_REVISION: 1290666
+          PUPPETEER_CACHE_DIR: /home/runner/.cache/puppeteer
+          PUPPETEER_CHROMIUM_REVISION: 1290666  # Especifica a versão do Chrome
         run: |
-          export PUPPETEER_CACHE_DIR=$(npm config get cache)/puppeteer
+          mkdir -p $PUPPETEER_CACHE_DIR
           npx puppeteer browsers install chrome
 
       - name: Use Kaggle Badges Action
         env:
-          PUPPETEER_CACHE_DIR: $(npm config get cache)/puppeteer
+          PUPPETEER_CACHE_DIR: /home/runner/.cache/puppeteer
         uses: spider-man-tm/kaggle-badges@v1.2.6
         with:
           user_name: brunoraiado
