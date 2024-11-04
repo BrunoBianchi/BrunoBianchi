@@ -1,18 +1,15 @@
 name: Kaggle Badges
-
 on:
   push:
     branches:
       - main
   schedule:
-    # You can change the cron expression to suit your needs
-    - cron: "11 11 1 * *" # 11:11 AM on the 1st of every month
+    - cron: "0 0 1 * *"  # Midnight on the 1st of every month
   workflow_dispatch:
 
 jobs:
   create-badges:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -22,21 +19,27 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Install Puppeteer browser
-        run: npx puppeteer browsers install chrome@129.0.6668.70
+      - name: Install dependencies
+        run: |
+          npm install puppeteer
+          npm install @puppeteer/browsers
+
+      - name: Install Chrome
+        run: |
+          npx @puppeteer/browsers install chrome@stable
+          npx puppeteer browsers install chrome
 
       - name: Use Kaggle Badges Action
         uses: spider-man-tm/kaggle-badges@v1.2.5
         with:
-          # ex. user_name: spidermandance
           user_name: brunoraiado
-          # example of using GitHub Secrets
-          # user_name: ${{ secrets.KAGGLE_USERNAME }}
+        env:
+          PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: true
 
-      - name: Commit and Push SVG files
+      - name: Commit and Push
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add ./kaggle-badges/* ./kaggle-plates/*
-          git commit -m "Add generated SVG files" || echo "No changes to commit"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update Kaggle badges"
           git push
