@@ -37,7 +37,7 @@ Bash         11 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </div>
 
 ![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/bruno-bianchi-65a442268/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-bianchi-65a442268/)
 ![](./kaggle-plates/Competitions/white.svg)
 
 
