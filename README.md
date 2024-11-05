@@ -32,19 +32,12 @@ Bash         11 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-
-## Let's Connect
-
-- 📧 Email: bruno.raiadobian@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/bruno-bianchi-65a442268/)
-
-Feel free to reach out for collaborations, ideas, or any interesting opportunities. Let’s build something amazing together!
-
 <div>
   <img src="https://github.com/BrunoBianchi/BrunoBianchi/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
 
 ![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/bruno-bianchi-65a442268/)
 ![](./kaggle-plates/Competitions/white.svg)
 
 
