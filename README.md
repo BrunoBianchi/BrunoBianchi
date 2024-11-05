@@ -14,6 +14,11 @@ I’m a **Full Stack Developer** at [AsimovJr](https://github.com/Asimovjr), wit
 I’m also actively working on a **Research & Development (R&D) project** for **Vertis**, focused on developing an **automated mobile network monitoring solution**. This project leverages **Artificial Intelligence (AI)** methods to optimize and improve network performance, providing real-time monitoring and analysis.
 
 I’m always eager to explore new technologies, improve my skills, and contribute to innovative projects.
+
+![](./kaggle-plates/Competitions/white.svg)
+![](./kaggle-plates/Datasets/white.svg)
+![](./kaggle-plates/Discussions/white.svg)
+![](./kaggle-plates/Notebooks/white.svg)
  <!--START_SECTION:waka-->
 
 ```txt
@@ -37,7 +42,7 @@ Bash         11 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-bianchi-65a442268/)
-![](./kaggle-plates/Competitions/white.svg)
+
 
 
 
