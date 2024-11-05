@@ -15,10 +15,9 @@ I’m also actively working on a **Research & Development (R&D) project** for **
 
 I’m always eager to explore new technologies, improve my skills, and contribute to innovative projects.
 
-![](./kaggle-plates/Competitions/white.svg)
-![](./kaggle-plates/Datasets/white.svg)
-![](./kaggle-plates/Discussions/white.svg)
-![](./kaggle-plates/Notebooks/white.svg)
+| ![](./kaggle-plates/Competitions/white.svg) | ![](./kaggle-plates/Datasets/white.svg) | ![](./kaggle-plates/Discussions/white.svg) | ![](./kaggle-plates/Notebooks/white.svg) |
+|---------------------------------------------|-----------------------------------------|--------------------------------------------|------------------------------------------|
+
  <!--START_SECTION:waka-->
 
 ```txt
