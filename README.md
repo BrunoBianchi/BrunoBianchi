@@ -15,8 +15,10 @@ I’m also actively working on a **Research & Development (R&D) project** for **
 
 I’m always eager to explore new technologies, improve my skills, and contribute to innovative projects.
 
-| ![](./kaggle-plates/Competitions/white.svg) | ![](./kaggle-plates/Datasets/white.svg) | ![](./kaggle-plates/Discussions/white.svg) | ![](./kaggle-plates/Notebooks/white.svg) |
-|---------------------------------------------|-----------------------------------------|--------------------------------------------|------------------------------------------|
+ ![](./kaggle-plates/Competitions/white.svg) 
+ ![](./kaggle-plates/Datasets/white.svg)
+ ![](./kaggle-plates/Discussions/white.svg) 
+ ![](./kaggle-plates/Notebooks/white.svg) 
 
  <!--START_SECTION:waka-->
 
@@ -38,9 +40,8 @@ Bash         11 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <div>
   <img src="https://github.com/BrunoBianchi/BrunoBianchi/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
-
 ![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-bianchi-65a442268/)
+
 
 
 
