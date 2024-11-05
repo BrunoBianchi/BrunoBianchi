@@ -44,6 +44,8 @@ Feel free to reach out for collaborations, ideas, or any interesting opportuniti
   <img src="https://github.com/BrunoBianchi/BrunoBianchi/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
 
+![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
+![](./kaggle-plates/Competitions/white.svg)
 
 
 
