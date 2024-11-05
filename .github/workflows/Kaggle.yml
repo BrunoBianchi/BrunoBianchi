@@ -4,7 +4,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 0 1 * *"  # Midnight on the 1st of every month
+    - cron: "0 0 1 * *"
   workflow_dispatch:
 
 jobs:
@@ -19,33 +19,38 @@ jobs:
         with:
           node-version: "20"
 
+      - name: Install Chrome dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libgbm-dev
+
       - name: Install Puppeteer and Chrome
         run: |
           npm init -y
-          npm install puppeteer @puppeteer/browsers
+          npm install puppeteer
           npm install puppeteer-core
-          npx puppeteer browsers install chrome@129.0.6668.70
-          echo "Chrome installation path:"
-          ls -la /home/runner/.cache/puppeteer/
+          npm install @puppeteer/browsers
 
-      - name: Verify Chrome Installation
+      - name: Setup Chrome
         run: |
-          echo "Installed browsers:"
-          npx puppeteer browsers list
-          echo "Cache directory contents:"
-          ls -R /home/runner/.cache/puppeteer/
+          npx puppeteer browsers install chrome@stable
+          npx puppeteer browsers install chrome-headless-shell@stable
+
+      - name: Add wait time
+        run: sleep 30
 
       - name: Use Kaggle Badges Action
-        uses: spider-man-tm/kaggle-badges@v1.2.5
+        uses: spider-man-tm/kaggle-badges@v1.0.0
         with:
           user_name: brunoraiado
         env:
-          PUPPETEER_CACHE_DIR: /home/runner/.cache/puppeteer
+          PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: 'true'
+          NODE_OPTIONS: '--max-old-space-size=4096'
 
       - name: Commit and Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
-          git commit -m "Update Kaggle badges" || echo "No changes to commit"
-          git push || echo "No changes to push"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update Kaggle badges"
+          git push
