@@ -14,7 +14,6 @@ I’m a **Full Stack Developer** at [AsimovJr](https://github.com/Asimovjr), wit
 I’m also actively working on a **Research & Development (R&D) project** for **Vertis**, focused on developing an **automated mobile network monitoring solution**. This project leverages **Artificial Intelligence (AI)** methods to optimize and improve network performance, providing real-time monitoring and analysis.
 
 I’m always eager to explore new technologies, improve my skills, and contribute to innovative projects.
-![brunoraiado](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{brunoraiado})
  <!--START_SECTION:waka-->
 
 ```txt
