@@ -1,15 +1,17 @@
 name: Kaggle Badges
+
 on:
   push:
     branches:
       - main
   schedule:
-    - cron: "0 0 1 * *"
+    - cron: "17 11 * * *"
   workflow_dispatch:
 
 jobs:
   create-badges:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -19,39 +21,18 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Install Chrome dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y libgbm-dev
-
-      - name: Install Puppeteer and Chrome
-        run: |
-          npm init -y
-          npm install puppeteer@21.7.0
-          npm install @puppeteer/browsers
-          npx puppeteer browsers install chrome@126.0.6478.63
-          echo "Installed Chrome Version:"
-          npx puppeteer browsers list
-
-      - name: Verify Chrome Installation
-        run: |
-          echo "Cache directory contents:"
-          ls -la /home/runner/.cache/puppeteer/
-          echo "Chrome location:"
-          find /home/runner/.cache/puppeteer -name chrome
+      - name: Install Puppeteer browser
+        run: npx puppeteer browsers install chrome@129.0.6668.70
 
       - name: Use Kaggle Badges Action
-        uses: spider-man-tm/kaggle-badges@v1.0.0
+        uses: spider-man-tm/kaggle-badges@v1.2.6
         with:
-          user_name: brunoraiado
-        env:
-          PUPPETEER_CACHE_DIR: /home/runner/.cache/puppeteer
-          PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: 'true'
+          user_name: spidermandance
 
-      - name: Commit and Push
+      - name: Commit and Push SVG files
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add -A
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update Kaggle badges"
-          git push || echo "No changes to push"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add ./kaggle-badges/* ./kaggle-plates/*
+          git commit -m "Add generated SVG files" || echo "No changes to commit"
+          git push
