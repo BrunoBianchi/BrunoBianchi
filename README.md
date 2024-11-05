@@ -40,6 +40,7 @@ Bash         11 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <div>
   <img src="https://github.com/BrunoBianchi/BrunoBianchi/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
+
 ![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
 
 
