@@ -4,14 +4,13 @@ I'm **Bruno Bianchi**, a passionate programmer pursuing a degree in **Computer E
 
 ## About Me
 
-I’m a **Full Stack Developer** at [AsimovJr](https://github.com/Asimovjr), with a strong passion for technology, programming, and solving complex challenges. My journey in the tech world began over seven years ago, and I've since gained expertise in:
+I’m  actively working on a **Research & Development (R&D) project** for **Vertis**, focused on developing an **automated mobile network monitoring solution**. This project leverages **Artificial Intelligence (AI)** methods to optimize and improve network performance, providing real-time monitoring and analysis.
+I also have a strong passion for technology, programming, and solving complex challenges. My journey in the tech world began over seven years ago, and I've since gained expertise in:
 
 - **Languages**: TypeScript, JavaScript, Java, Python, R, Haskell
 - **Back-End**: Node.js, Nest.js, Prisma, MongoDB, PostgreSQL, Firebase
 - **Front-End**: Angular
 - **Tools**: VS Code, Git
-
-I’m also actively working on a **Research & Development (R&D) project** for **Vertis**, focused on developing an **automated mobile network monitoring solution**. This project leverages **Artificial Intelligence (AI)** methods to optimize and improve network performance, providing real-time monitoring and analysis.
 
 I’m always eager to explore new technologies, improve my skills, and contribute to innovative projects.
 
