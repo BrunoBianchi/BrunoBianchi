@@ -23,7 +23,7 @@ I’m always eager to explore new technologies, improve my skills, and contribut
  <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2024 - To: 04 May 2025
+From: 22 August 2024 - To: 05 May 2025
 
 Total Time: 279 hrs 50 mins
 
