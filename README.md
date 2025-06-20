@@ -1,24 +1,26 @@
-# Hi there! 👋
 
-I'm **Bruno Bianchi**, a passionate programmer pursuing a degree in **Computer Engineering** at [Universidade Federal de Itajubá (UNIFEI)](https://www.unifei.edu.br). 🚀
 
-## About Me
+# Olá, sou Bruno Bianchi
 
-I’m  actively working on a **Research & Development (R&D) project** for **Vertis**, focused on developing an **automated mobile network monitoring solution**. This project leverages **Artificial Intelligence (AI)** methods to optimize and improve network performance, providing real-time monitoring and analysis.
+R\&D Engineer @ Vertis · Computer Engineering @ UNIFEI
+Itajubá, MG · [brunobianchi.dev](https://brunobianchi.dev)
 
-I also have a strong passion for technology, programming, and solving complex challenges. My journey in the tech world began over seven years ago, and I've since gained expertise in:
+## Sobre
 
-- **Languages**: TypeScript, JavaScript, Java, Python, R, Haskell
-- **Back-End**: Node.js, Nest.js, Prisma, MongoDB, PostgreSQL, Firebase
-- **Front-End**: Angular
-- **Tools**: VS Code, Git
+Apaixonado por transformar ideias em software escalável.
+Atuo no desenvolvimento de soluções de AI para monitoramento de redes móveis em tempo real.
 
-I’m always eager to explore new technologies, improve my skills, and contribute to innovative projects.
+**Destaques**
 
- ![](./kaggle-plates/Competitions/white.svg) 
- ![](./kaggle-plates/Datasets/white.svg)
- ![](./kaggle-plates/Discussions/white.svg) 
- ![](./kaggle-plates/Notebooks/white.svg) 
+* 7+ anos em Full‑Stack & Data Engineering
+* Liderança de equipe e definição de arquiteturas
+* Práticas de Clean Code, testes automatizados e CI/CD
+
+## Tech Stack
+
+Angular, React, Node.js, NestJS, Go, Python, R, bibliotecas de Machine Learning, PostgreSQL, MongoDB, Git, Docker, AWS, CI/CD e Kubernetes.
+
+## WakaTime
 
  <!--START_SECTION:waka-->
 
@@ -38,15 +40,19 @@ Bash           4 hrs 21 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-<div>
-  <img src="https://github.com/BrunoBianchi/BrunoBianchi/blob/output/github-contribution-grid-snake-dark.svg">
-</div>
+## Projetos Recentes
 
-![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
+* **Portfolio**: Site pessoal em React + TailwindCSS
+* **Tech4Humans-Webapp-Finança**: SPA financeira com gráficos e OAuth
+* **brunodev-backend**: API REST de microserviços para monitoramento de redes
+* **face-harmony-design**: Protótipo de interface para clínica de harmonização
+* **clone-tabnews**: Replica simplificado do TabNews em Next.js
 
+## Contribuições
 
+* 635 commits no último ano
+* Participação em projetos Open‑Source relevantes
 
+## Contato
 
-
-
-
+[contato@brunobianchi.dev](mailto:contato@brunobianchi.dev) · [LinkedIn](https://www.linkedin.com/in/bruno-bianchi-65a442268) · brunobianchi.dev
