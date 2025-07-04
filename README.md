@@ -2,7 +2,7 @@
 
 # Olá, sou Bruno Bianchi
 
-R\&D Engineer @ Vertis · Computer Engineering @ UNIFEI
+FullStack Developer @Tech4Humans · Computer Engineering @ UNIFEI
 Itajubá, MG · [brunobianchi.dev](https://brunobianchi.dev)
 
 ## Sobre
