@@ -2,7 +2,7 @@
 
 # Olá, sou Bruno Bianchi
 
-FullStack Developer @Tech4Humans · Computer Engineering @ UNIFEI
+FullStack Developer · Computer Engineering @ UNIFEI
 Itajubá, MG · [brunobianchi.dev](https://brunobianchi.dev)
 
 ## Sobre
