@@ -25,7 +25,7 @@ Angular, React, Node.js, NestJS, Go, Python, R, bibliotecas de Machine Learning,
  <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2024 - To: 12 November 2025
+From: 22 August 2024 - To: 13 November 2025
 
 Total Time: 424 hrs 49 mins
 
