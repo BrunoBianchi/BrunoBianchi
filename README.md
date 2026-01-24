@@ -1,27 +1,68 @@
+<div align="center">
 
+# Olá, sou Bruno Bianchi 👋
 
-# Olá, sou Bruno Bianchi
-
-FullStack Developer · Computer Engineering @ UNIFEI
+**FullStack Developer · Computer Engineering @ UNIFEI**
+<br>
 Itajubá, MG · [brunobianchi.dev](https://brunobianchi.dev)
 
-## Sobre
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-bianchi-65a442268)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@brunobianchi.dev)
+[![Website](https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://brunobianchi.dev)
 
-Apaixonado por transformar ideias em software escalável.
-Atuo no desenvolvimento de soluções de AI para monitoramento de redes móveis em tempo real.
+<br>
 
-**Destaques**
+> *"Apaixonado por transformar ideias em software escalável."*
 
-* 7+ anos em Full‑Stack & Data Engineering
-* Liderança de equipe e definição de arquiteturas
-* Práticas de Clean Code, testes automatizados e CI/CD
+</div>
 
-## Tech Stack
+---
 
-Angular, React, Node.js, NestJS, Go, Python, R, bibliotecas de Machine Learning, PostgreSQL, MongoDB, Git, Docker, AWS, CI/CD e Kubernetes.
+## 👨‍💻 Sobre Mim
 
-## WakaTime
+Atuo no desenvolvimento de soluções de **IA para monitoramento de redes móveis em tempo real**, focando em arquitetura de software e performance.
 
+* 🔭 **Atualmente:** Liderança técnica e definição de arquiteturas.
+* 💡 **Experiência:** 7+ anos em Full‑Stack & Data Engineering.
+* ⚙️ **Práticas:** Clean Code, TDD, CI/CD e Arquitetura de Microsserviços.
+
+---
+
+## 🛠 Tech Stack
+
+**Front-end & Mobile**
+<br>
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+
+**Back-end**
+<br>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+
+**Data & Infra**
+<br>
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+
+---
+
+## 📚 Lendo em 2026
+
+| Capa | Título | Autor | Status |
+|:---:|:---|:---|:---:|
+| <img src="https://m.media-amazon.com/images/I/41WH7HFsbzL._SY445_SX342_.jpg" width="40"> | **O Programador Pragmático** | *Andrew Hunt & David Thomas* | 🔄 Lendo |
+
+---
+
+## 📊 WakaTime
  <!--START_SECTION:waka-->
 
 ```txt
@@ -39,20 +80,3 @@ Bash                       5 hrs 55 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-
-## Projetos Recentes
-
-* **Portfolio**: Site pessoal em React + TailwindCSS
-* **Tech4Humans-Webapp-Finança**: SPA financeira com gráficos e OAuth
-* **brunodev-backend**: API REST de microserviços para monitoramento de redes
-* **face-harmony-design**: Protótipo de interface para clínica de harmonização
-* **clone-tabnews**: Replica simplificado do TabNews em Next.js
-
-## Contribuições
-
-* 635 commits no último ano
-* Participação em projetos Open‑Source relevantes
-
-## Contato
-
-[contato@brunobianchi.dev](mailto:contato@brunobianchi.dev) · [LinkedIn](https://www.linkedin.com/in/bruno-bianchi-65a442268) · brunobianchi.dev
