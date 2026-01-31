@@ -66,13 +66,13 @@ Atuo no desenvolvimento de soluções de **IA para monitoramento de redes móvei
  <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2024 - To: 30 January 2026
+From: 22 August 2024 - To: 31 January 2026
 
-Total Time: 536 hrs 57 mins
+Total Time: 537 hrs 18 mins
 
-TypeScript                 271 hrs 46 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.33 %
-Python                     99 hrs 16 mins  ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.38 %
-JavaScript                 32 hrs 42 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.06 %
+TypeScript                 272 hrs 7 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.36 %
+Python                     99 hrs 16 mins  ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.37 %
+JavaScript                 32 hrs 42 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.05 %
 Markdown                   11 hrs 23 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.11 %
 Java                       10 hrs 53 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.02 %
 R                          9 hrs 21 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.73 %
