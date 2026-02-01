@@ -66,7 +66,7 @@ Atuo no desenvolvimento de soluções de **IA para monitoramento de redes móvei
  <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2024 - To: 31 January 2026
+From: 22 August 2024 - To: 01 February 2026
 
 Total Time: 537 hrs 18 mins
 
