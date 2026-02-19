@@ -1,82 +1,110 @@
 <div align="center">
 
-# Olá, sou Bruno Bianchi 👋
+# Bruno Bianchi
+**Tech Lead | Senior Full-Stack Engineer & Software Architect**
 
-**FullStack Developer · Computer Engineering @ UNIFEI**
-<br>
-Itajubá, MG · [brunobianchi.dev](https://brunobianchi.dev)
+[Website](https://brunobianchi.dev) &nbsp;&nbsp;&bull;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/bruno-bianchi-65a442268) &nbsp;&nbsp;&bull;&nbsp;&nbsp; [Email](mailto:contato@brunobianchi.dev)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-bianchi-65a442268)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@brunobianchi.dev)
-[![Website](https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://brunobianchi.dev)
-
-<br>
-
-> *"Apaixonado por transformar ideias em software escalável."*
+*Designing and scaling high-performance software architectures, data-driven solutions, and AI for mission-critical systems.*
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## Overview & Strategic Positioning
 
-Atuo no desenvolvimento de soluções de **IA para monitoramento de redes móveis em tempo real**, focando em arquitetura de software e performance.
+Software Engineer with over 7 years of experience focused on developing scalable products and providing technical leadership. My expertise lies in architecting distributed systems and Artificial Intelligence solutions applied to real-time data monitoring (such as mobile networks).
 
-* 🔭 **Atualmente:** Liderança técnica e definição de arquiteturas.
-* 💡 **Experiência:** 7+ anos em Full‑Stack & Data Engineering.
-* ⚙️ **Práticas:** Clean Code, TDD, CI/CD e Arquitetura de Microsserviços.
+I work end-to-end across the product engineering lifecycle: from cloud infrastructure design and data modeling to developing high-concurrency APIs and optimized user interfaces. I resolve performance bottlenecks and ensure application resilience through strict engineering best practices.
 
----
-
-## 🛠 Tech Stack
-
-**Front-end & Mobile**
-<br>
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-
-**Back-end**
-<br>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-
-**Data & Infra**
-<br>
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+**Technical Edge:** Ability to align business objectives with software architecture decisions, ensuring deliveries with clean, testable, and highly scalable code.
 
 ---
 
-## 📚 Lendo em 2026
+## Tech Stack & Expertise
 
-| Capa | Título | Autor | Status |
-|:---:|:---|:---|:---:|
-| <img src="https://m.media-amazon.com/images/I/41WH7HFsbzL._SY445_SX342_.jpg" width="40"> | **O Programador Pragmático** | *Andrew Hunt & David Thomas* | 🔄 Lendo |
+**Backend Engineering & APIs**
+> Node.js, NestJS, Go, Python, Java
+
+**Frontend Engineering & UI**
+> React, Angular, TypeScript, TailwindCSS
+
+**Data Architecture & Infrastructure (Cloud/DevOps)**
+> PostgreSQL, MongoDB, AWS, Kubernetes, Docker
 
 ---
 
-## 📊 WakaTime
- <!--START_SECTION:waka-->
+## Engineering Mindset & Architecture
+
+My technical leadership and development cycles are built upon the following pillars:
+
+* **Software Architecture:** Modeling based on Clean Architecture, Domain-Driven Design (DDD), and microservices to ensure low coupling and high cohesion.
+* **Performance & Scalability:** Development of RESTful APIs and low-latency asynchronous systems, engineered for high request volumes.
+* **Code Quality:** Strict adoption of Clean Code, Design Patterns (GoF), and Test-Driven Development (TDD) for predictability and maintainability.
+* **DevOps Culture:** Automation of CI/CD pipelines for continuous integration and secure, zero-downtime deployments in containerized environments.
+
+---
+
+## Featured Products & Solutions
+
+*(Note: Update the links below to point to your actual pinned repositories)*
+
+### 1. Real-Time Network AI Monitor
+* **Problem:** Processing and detecting anomalies in mobile network traffic in real-time with ultra-low latency.
+* **Solution:** Data processing engine built with Go and Python, leveraging AI models to identify anomalous patterns on the fly.
+* **Architecture & Stack:** Go, Python, PostgreSQL, Docker, AWS.
+* **Technical Impact:** Enables the analysis of thousands of packets per second, drastically reducing the time required to identify network failures.
+* [View Repository ->](#)
+
+### 2. Distributed Microservices Gateway
+* **Problem:** Routing and authentication bottlenecks in microservices ecosystems handling high traffic volumes.
+* **Solution:** Centralized API gateway focused on high availability, dynamic rate limiting, and request observability.
+* **Architecture & Stack:** Node.js, NestJS, Redis, Kubernetes.
+* **Technical Impact:** Standardized security protocols and increased internal API resilience against sudden access spikes.
+* [View Repository ->](#)
+
+### 3. Enterprise Dashboard Console
+* **Problem:** Visualizing massive volumes of telemetry metrics without compromising browser rendering performance.
+* **Solution:** Highly optimized Single Page Application (SPA) implementing aggressive lazy loading strategies and WebSockets.
+* **Architecture & Stack:** React, TypeScript, TailwindCSS.
+* **Technical Impact:** Fluid, responsive interface capable of rendering real-time dashboards with sub-second data updates.
+* [View Repository ->](#)
+
+---
+
+## Recent Technical Metrics
+
+<!--START_SECTION:waka-->
+
+
 
 ```txt
+
 From: 22 August 2024 - To: 18 February 2026
+
+
 
 Total Time: 575 hrs 50 mins
 
+
+
 TypeScript                 298 hrs 51 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   51.57 %
+
 Python                     99 hrs 16 mins        ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.13 %
+
 JavaScript                 33 hrs                ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.70 %
+
 Bash                       14 hrs 18 mins        ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.47 %
+
 Markdown                   11 hrs 23 mins        ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.96 %
+
 Java                       10 hrs 53 mins        ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.88 %
+
 R                          9 hrs 21 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.61 %
+
 ```
 
+
+
 <!--END_SECTION:waka-->
+
