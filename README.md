@@ -45,32 +45,6 @@ My technical leadership and development cycles are built upon the following pill
 
 ---
 
-## Featured Products & Solutions
-
-*(Note: Update the links below to point to your actual pinned repositories)*
-
-### 1. Real-Time Network AI Monitor
-* **Problem:** Processing and detecting anomalies in mobile network traffic in real-time with ultra-low latency.
-* **Solution:** Data processing engine built with Go and Python, leveraging AI models to identify anomalous patterns on the fly.
-* **Architecture & Stack:** Go, Python, PostgreSQL, Docker, AWS.
-* **Technical Impact:** Enables the analysis of thousands of packets per second, drastically reducing the time required to identify network failures.
-* [View Repository ->](#)
-
-### 2. Distributed Microservices Gateway
-* **Problem:** Routing and authentication bottlenecks in microservices ecosystems handling high traffic volumes.
-* **Solution:** Centralized API gateway focused on high availability, dynamic rate limiting, and request observability.
-* **Architecture & Stack:** Node.js, NestJS, Redis, Kubernetes.
-* **Technical Impact:** Standardized security protocols and increased internal API resilience against sudden access spikes.
-* [View Repository ->](#)
-
-### 3. Enterprise Dashboard Console
-* **Problem:** Visualizing massive volumes of telemetry metrics without compromising browser rendering performance.
-* **Solution:** Highly optimized Single Page Application (SPA) implementing aggressive lazy loading strategies and WebSockets.
-* **Architecture & Stack:** React, TypeScript, TailwindCSS.
-* **Technical Impact:** Fluid, responsive interface capable of rendering real-time dashboards with sub-second data updates.
-* [View Repository ->](#)
-
----
 
 ## Recent Technical Metrics
 
