@@ -51,7 +51,7 @@ My technical leadership and development cycles are built upon the following pill
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2024 - To: 26 April 2026
+From: 22 August 2024 - To: 27 April 2026
 
 Total Time: 594 hrs 25 mins
 
