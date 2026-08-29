@@ -68,12 +68,12 @@ I work across the whole cycle: data modeling, REST APIs, service integration, co
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
-| **[Tech4Um](https://github.com/BrunoBianchi/Tech4Um-Grupo02)** 🥇 | Real-time forum and messaging MVP — **1st place, Hackathon Ninja 2026**. Stateless auth, fully containerized. [Live demo](https://tech4um.xyz) | Node.js · TypeScript · React · Socket.IO · PostgreSQL · Docker |
+| **[Tech4Um](https://github.com/BrunoBianchi/Tech4Um-Grupo02)** 🥇 | Real-time forum and messaging MVP — **1st place, Hackathon Ninja 2026**. Stateless auth, fully containerized. | Node.js · TypeScript · React · Socket.IO · PostgreSQL · Docker |
 | **[TechFinance](https://github.com/BrunoBianchi/Tech4Humans-Webapp-Financa)** 🥇 | Personal finance web app — **1st place, TechLab 2025 (Tech4Humans)**. MSC architecture, JWT auth, AI insights. | Node.js · TypeScript · React · PostgreSQL · Redis · Docker |
-| **[Portyo](https://github.com/BrunoBianchi/Portyo)** | Portfolio-building platform with custom domains and automated publishing. My largest project — 170+ commits. | TypeScript · React · Node.js · Tailwind CSS |
-| **[GSA Community Platform](https://github.com/BrunoBianchi/Google-Students-Embassador)** | Platform for Google Student Ambassadors to find peers by university and organize local events. | TypeScript · React · Node.js |
-| **[Midea Speech-to-Text](https://github.com/BrunoBianchi/midea-speech-to-text)** | R&D transcription and intelligent audio analysis pipeline for call center automation (UNIFEI × Midea). | Python · Generative AI · Speech-to-Text |
-| **[EventHub](https://github.com/BrunoBianchi/EventHub)** | Event management application with REST API and componentized front-end. | TypeScript · Node.js · React |
+| **[Portyo](https://github.com/BrunoBianchi/Portyo)** | Multi-tenant link-in-bio SaaS: custom domains with automated SSL, plus an AI engine that writes and schedules posts. My largest project — 175 commits. | TypeScript · React Router · Express · TypeORM · PostgreSQL · Nginx |
+| **[Student Ambassador Hub](https://github.com/BrunoBianchi/Google-Students-Embassador)** | Community platform for Google Student Ambassadors in Brazil — campus directory, events portal and networking. | TypeScript · React Router · Node.js · Tailwind CSS · Bun |
+| **[Midea Speech-to-Text](https://github.com/BrunoBianchi/midea-speech-to-text)** | R&D transcription and intelligent audio analysis for call-center automation (UNIFEI × Midea). | Python · Flask · Node.js · Whisper · Generative AI |
+| **[PicPay Backend Challenge](https://github.com/BrunoBianchi/picpay-backend-challenge)** | Money-transfer REST API built on a modelled relational schema. | TypeScript · Node.js · REST |
 
 ---
 
