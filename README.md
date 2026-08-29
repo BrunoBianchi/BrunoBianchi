@@ -29,6 +29,43 @@ I work across the whole cycle: data modeling, REST APIs, service integration, co
 
 ---
 
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/BrunoBianchi/Tech4Um-Grupo02"><img src="./assets/card-tech4um.svg" width="430" alt="Tech4Um — 1st place at Hackathon Ninja 2026. Real-time forum and messaging MVP with stateless JWT auth, built in Node.js, TypeScript, React, Socket.IO, PostgreSQL and Docker."></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/BrunoBianchi/Tech4Humans-Webapp-Financa"><img src="./assets/card-techfinance.svg" width="430" alt="TechFinance — 1st place at TechLab 2025. Personal finance web app with MSC architecture, Redis caching and JWT auth, built in Node.js, TypeScript, React and PostgreSQL."></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/BrunoBianchi/Portyo"><img src="./assets/card-portyo.svg" width="430" alt="Portyo — multi-tenant link-in-bio SaaS with custom domains, automated SSL and AI-scheduled posts. TypeScript, React Router, Express, TypeORM and Nginx."></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/BrunoBianchi/Google-Students-Embassador"><img src="./assets/card-gsa.svg" width="430" alt="Student Ambassador Hub — community platform for Google Student Ambassadors in Brazil, with campus directory, events portal and Google OAuth. TypeScript, React Router, Node.js, Tailwind and Bun."></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/BrunoBianchi/midea-speech-to-text"><img src="./assets/card-midea.svg" width="430" alt="Midea Speech-to-Text — R&D transcription and intelligent audio analysis for call-center automation. Python, Flask, Node.js, Whisper and generative AI."></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/BrunoBianchi/picpay-backend-challenge"><img src="./assets/card-picpay.svg" width="430" alt="PicPay Backend Challenge — money-transfer REST API on a modelled relational schema, built in TypeScript and Node.js."></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Experience
+
+<img src="./assets/experience.svg" width="820" alt="Midea — Software Engineer, AI and Speech-to-Text R&D, since Jun 2026. Fiverr — Freelance Full-Stack Developer, US$ 5,000+ delivered, since Jan 2022. Tech for Humans — Full-Stack Developer, legacy migration and Azure Functions, Jun to Aug 2025. Vertis Solutions — Machine Learning Engineer, 5G anomaly detection, Oct 2024 to Jun 2025. Asimov Jr. — Data Science Lead then Full-Stack Developer, Nov 2023 to Oct 2024.">
+
+---
+
 ## Tech Stack
 
 **Backend**
@@ -64,31 +101,6 @@ I work across the whole cycle: data modeling, REST APIs, service integration, co
 
 ---
 
-## Featured Projects
-
-| Project | What it is | Stack |
-| :--- | :--- | :--- |
-| **[Tech4Um](https://github.com/BrunoBianchi/Tech4Um-Grupo02)** 🥇 | Real-time forum and messaging MVP — **1st place, Hackathon Ninja 2026**. Stateless auth, fully containerized. | Node.js · TypeScript · React · Socket.IO · PostgreSQL · Docker |
-| **[TechFinance](https://github.com/BrunoBianchi/Tech4Humans-Webapp-Financa)** 🥇 | Personal finance web app — **1st place, TechLab 2025 (Tech4Humans)**. MSC architecture, JWT auth, AI insights. | Node.js · TypeScript · React · PostgreSQL · Redis · Docker |
-| **[Portyo](https://github.com/BrunoBianchi/Portyo)** | Multi-tenant link-in-bio SaaS: custom domains with automated SSL, plus an AI engine that writes and schedules posts. My largest project — 175 commits. | TypeScript · React Router · Express · TypeORM · PostgreSQL · Nginx |
-| **[Student Ambassador Hub](https://github.com/BrunoBianchi/Google-Students-Embassador)** | Community platform for Google Student Ambassadors in Brazil — campus directory, events portal and networking. | TypeScript · React Router · Node.js · Tailwind CSS · Bun |
-| **[Midea Speech-to-Text](https://github.com/BrunoBianchi/midea-speech-to-text)** | R&D transcription and intelligent audio analysis for call-center automation (UNIFEI × Midea). | Python · Flask · Node.js · Whisper · Generative AI |
-| **[PicPay Backend Challenge](https://github.com/BrunoBianchi/picpay-backend-challenge)** | Money-transfer REST API built on a modelled relational schema. | TypeScript · Node.js · REST |
-
----
-
-## Experience
-
-| | Role | Period |
-| :--- | :--- | :--- |
-| **Midea** | Software Engineer — AI / Speech-to-Text R&D | Jun 2026 – present |
-| **Fiverr** | Freelance Full-Stack Developer — US$ 5,000+ delivered | Jan 2022 – present |
-| **Tech for Humans** | Full-Stack Developer — legacy migration, Azure Functions | Jun – Aug 2025 |
-| **Vertis Solutions** | Machine Learning Engineer — 5G network anomaly detection | Oct 2024 – Jun 2025 |
-| **Asimov Jr.** | Data Science Lead → Full-Stack Developer | Nov 2023 – Oct 2024 |
-
----
-
 ## Certifications
 
 ![AWS](https://img.shields.io/badge/AWS_Certified-AI_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
@@ -119,6 +131,7 @@ Atuo no ciclo completo: modelagem de dados, construção de APIs REST, integraç
 
 - Arquitetei o MVP do **Tech4Um**, plataforma de fórum e mensageria em tempo real — **1º lugar no Hackathon Ninja 2026**.
 - Desenvolvi o **TechFinance**, WebApp de gestão financeira — **1º lugar no TechLab 2025** da Tech4Humans.
+- Construí o **Portyo**, SaaS multi-tenant de link-in-bio com domínios personalizados, SSL automatizado e geração de conteúdo por IA.
 - Migrei funcionalidades legadas da **Tech for Humans** para arquitetura componentizada com microsserviços e Azure Functions.
 - Construí pipelines em Python que alimentam modelos de detecção antecipada de anomalias em **redes 5G** (P&D UNIFEI).
 - Gerei **mais de US$ 5.000** como freelancer na Fiverr, com aplicações web, bots e landing pages em React e Tailwind CSS.
