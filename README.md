@@ -29,25 +29,21 @@ I work across the whole cycle: data modeling, REST APIs, service integration, co
 
 ---
 
-## Featured Projects
+## Featured Projects &amp; Experience
 
-<a href="https://github.com/BrunoBianchi/Tech4Um-Grupo02"><img src="./assets/card-tech4um.svg" width="880" alt="Tech4Um — 1st place at Hackathon Ninja 2026. Real-time forum and messaging MVP with stateless JWT auth, built in Node.js, TypeScript, React, Socket.IO, PostgreSQL and Docker."></a>
+<img align="right" width="42%" src="./assets/experience.svg" alt="Experience timeline. Midea — Software Engineer, Speech-to-Text R&D, since Jun 2026, Node.js, React and Python. Fiverr — Freelance Full-Stack Developer, since Jan 2022, React, TypeScript and Tailwind CSS. Tech for Humans — Full-Stack Developer, Jun to Aug 2025, React, TypeScript and Azure Functions. Vertis Solutions — Machine Learning Engineer, Oct 2024 to Jun 2025, Python, data pipelines and ML. Asimov Jr. — Data Science Lead then Full-Stack Developer, Nov 2023 to Oct 2024, Angular, Node.js, Python and R.">
 
-<a href="https://github.com/BrunoBianchi/Tech4Humans-Webapp-Financa"><img src="./assets/card-techfinance.svg" width="880" alt="TechFinance — 1st place at TechLab 2025. Personal finance web app with MSC architecture, Redis caching and JWT auth, built in Node.js, TypeScript, React, PostgreSQL and Docker."></a>
+<a href="https://github.com/BrunoBianchi/Tech4Um-Grupo02"><img width="50%" src="./assets/card-tech4um.svg" alt="Tech4Um — 1st place at Hackathon Ninja 2026. Real-time forum and messaging MVP with stateless JWT auth, fully containerized. Node.js, TypeScript, React and Socket.IO."></a>
 
-<a href="https://github.com/BrunoBianchi/Portyo"><img src="./assets/card-portyo.svg" width="880" alt="Portyo — multi-tenant link-in-bio SaaS with custom domains, automated SSL and AI-scheduled posts. TypeScript, React Router, Express, TypeORM, PostgreSQL and Nginx. 175 commits."></a>
+<a href="https://github.com/BrunoBianchi/Tech4Humans-Webapp-Financa"><img width="50%" src="./assets/card-techfinance.svg" alt="TechFinance — 1st place at TechLab 2025. Personal finance web app with MSC architecture, Redis caching and JWT auth. Node.js, TypeScript, React and PostgreSQL."></a>
 
-<a href="https://github.com/BrunoBianchi/Google-Students-Embassador"><img src="./assets/card-gsa.svg" width="880" alt="Student Ambassador Hub — community platform for Google Student Ambassadors in Brazil, with campus directory by region, events portal and Google OAuth. TypeScript, React Router, Node.js, Tailwind CSS and Bun."></a>
+<a href="https://github.com/BrunoBianchi/Portyo"><img width="50%" src="./assets/card-portyo.svg" alt="Portyo — link-in-bio SaaS with custom domains, automated SSL and AI-scheduled posts. TypeScript, React Router, Express and Nginx. 175 commits, largest project."></a>
 
-<a href="https://github.com/BrunoBianchi/midea-speech-to-text"><img src="./assets/card-midea.svg" width="880" alt="Midea Speech-to-Text — R&D transcription and intelligent audio analysis for call-center automation. Python, Flask, Node.js, Whisper and generative AI."></a>
+<a href="https://github.com/BrunoBianchi/Google-Students-Embassador"><img width="50%" src="./assets/card-gsa.svg" alt="Student Ambassador Hub — campus directory, events portal and ambassador networking for Google Student Ambassadors Brazil, with Google OAuth sign-in. TypeScript, React Router, Node.js and Bun."></a>
 
-<a href="https://github.com/BrunoBianchi/picpay-backend-challenge"><img src="./assets/card-picpay.svg" width="880" alt="PicPay Backend Challenge — money-transfer REST API on a modelled relational schema, built in TypeScript, Node.js and PostgreSQL."></a>
+<a href="https://github.com/BrunoBianchi/midea-speech-to-text"><img width="50%" src="./assets/card-midea.svg" alt="Midea Speech-to-Text — R&D transcription and intelligent audio analysis for call-center automation, UNIFEI × Midea. Python, Flask, Whisper and generative AI."></a>
 
----
-
-## Experience
-
-<img src="./assets/experience.svg" width="880" alt="Midea — Software Engineer, AI and Speech-to-Text R&D, since Jun 2026. Fiverr — Freelance Full-Stack Developer, US$ 5,000+ delivered, since Jan 2022. Tech for Humans — Full-Stack Developer, legacy migration and Azure Functions, Jun to Aug 2025. Vertis Solutions — Machine Learning Engineer, 5G anomaly detection, Oct 2024 to Jun 2025. Asimov Jr. — Data Science Lead then Full-Stack Developer, Nov 2023 to Oct 2024.">
+<a href="https://github.com/BrunoBianchi/picpay-backend-challenge"><img width="50%" src="./assets/card-picpay.svg" alt="PicPay Backend Challenge — money-transfer REST API built on a modelled relational schema. TypeScript, Node.js and PostgreSQL."></a>
 
 ---
 
