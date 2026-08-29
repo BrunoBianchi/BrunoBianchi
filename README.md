@@ -1,68 +1,141 @@
 <div align="center">
 
 # Bruno Bianchi
-**Tech Lead | Senior Full-Stack Engineer & Software Architect**
 
-[Website](https://brunobianchi.dev) &nbsp;&nbsp;&bull;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/bruno-bianchi-65a442268) &nbsp;&nbsp;&bull;&nbsp;&nbsp; [Email](mailto:contato@brunobianchi.dev)
+### Full-Stack Developer · Node.js · React · TypeScript · Python
 
-*Designing and scaling high-performance software architectures, data-driven solutions, and AI for mission-critical systems.*
+Computer Engineering student at **UNIFEI** · Building web products end-to-end, from requirements to deploy.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-brunobianchi.dev-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://brunobianchi.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brunorbianchi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunorbianchi)
+[![Email](https://img.shields.io/badge/Email-contato@brunobianchi.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@brunobianchi.dev)
 
 </div>
 
 ---
 
-## Overview & Strategic Positioning
+## About
 
-Software Engineer with over 7 years of experience focused on developing scalable products and providing technical leadership. My expertise lies in architecting distributed systems and Artificial Intelligence solutions applied to real-time data monitoring (such as mobile networks).
+Full-Stack Developer with **4 years building digital products** across fintech, edtech, industry and applied AI — from requirements gathering to production deploy.
 
-I work end-to-end across the product engineering lifecycle: from cloud infrastructure design and data modeling to developing high-concurrency APIs and optimized user interfaces. I resolve performance bottlenecks and ensure application resilience through strict engineering best practices.
+I work across the whole cycle: data modeling, REST APIs, service integration, component-based React interfaces and cloud deployment. Hands-on with microservices, serverless functions, Docker containers and CI/CD, with attention to clean code, performance and scalability.
 
-**Technical Edge:** Ability to align business objectives with software architecture decisions, ensuring deliveries with clean, testable, and highly scalable code.
-
----
-
-## Tech Stack & Expertise
-
-**Backend Engineering & APIs**
-> Node.js, NestJS, Go, Python, Java
-
-**Frontend Engineering & UI**
-> React, Angular, TypeScript, TailwindCSS
-
-**Data Architecture & Infrastructure (Cloud/DevOps)**
-> PostgreSQL, MongoDB, AWS, Kubernetes, Docker
+- 🏢 **Software Engineer @ Midea** — R&D speech-to-text + AI analysis POC (UNIFEI × Midea Carrier partnership)
+- 🎓 **Computer Engineering @ UNIFEI** — graduating Dec/2027
+- 🇧🇷 **Google Student Ambassador 2026** — Gemini and generative AI
+- ☁️ **Linux Foundation (LiFT) scholar** — training toward CKAD
+- 🏆 **2× hackathon winner** — TechLab 2025 and Hackathon Ninja 2026
+- 💼 Open to **internship / junior Full-Stack roles**, remote or hybrid
 
 ---
 
-## Engineering Mindset & Architecture
+## Tech Stack
 
-My technical leadership and development cycles are built upon the following pillars:
+**Backend**
 
-* **Software Architecture:** Modeling based on Clean Architecture, Domain-Driven Design (DDD), and microservices to ensure low coupling and high cohesion.
-* **Performance & Scalability:** Development of RESTful APIs and low-latency asynchronous systems, engineered for high request volumes.
-* **Code Quality:** Strict adoption of Clean Code, Design Patterns (GoF), and Test-Driven Development (TDD) for predictability and maintainability.
-* **DevOps Culture:** Automation of CI/CD pipelines for continuous integration and secure, zero-downtime deployments in containerized environments.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Data & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Practices** — Clean Code · Clean Architecture · SOLID · REST API design · Code Review · Scrum
 
 ---
 
+## Featured Projects
 
-## Recent Technical Metrics
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[Tech4Um](https://github.com/BrunoBianchi/Tech4Um-Grupo02)** 🥇 | Real-time forum and messaging MVP — **1st place, Hackathon Ninja 2026**. Stateless auth, fully containerized. [Live demo](https://tech4um.xyz) | Node.js · TypeScript · React · Socket.IO · PostgreSQL · Docker |
+| **[TechFinance](https://github.com/BrunoBianchi/Tech4Humans-Webapp-Financa)** 🥇 | Personal finance web app — **1st place, TechLab 2025 (Tech4Humans)**. MSC architecture, JWT auth, AI insights. | Node.js · TypeScript · React · PostgreSQL · Redis · Docker |
+| **[Portyo](https://github.com/BrunoBianchi/Portyo)** | Portfolio-building platform with custom domains and automated publishing. My largest project — 170+ commits. | TypeScript · React · Node.js · Tailwind CSS |
+| **[GSA Community Platform](https://github.com/BrunoBianchi/Google-Students-Embassador)** | Platform for Google Student Ambassadors to find peers by university and organize local events. | TypeScript · React · Node.js |
+| **[Midea Speech-to-Text](https://github.com/BrunoBianchi/midea-speech-to-text)** | R&D transcription and intelligent audio analysis pipeline for call center automation (UNIFEI × Midea). | Python · Generative AI · Speech-to-Text |
+| **[EventHub](https://github.com/BrunoBianchi/EventHub)** | Event management application with REST API and componentized front-end. | TypeScript · Node.js · React |
+
+---
+
+## Experience
+
+| | Role | Period |
+| :--- | :--- | :--- |
+| **Midea** | Software Engineer — AI / Speech-to-Text R&D | Jun 2026 – present |
+| **Fiverr** | Freelance Full-Stack Developer — US$ 5,000+ delivered | Jan 2022 – present |
+| **Tech for Humans** | Full-Stack Developer — legacy migration, Azure Functions | Jun – Aug 2025 |
+| **Vertis Solutions** | Machine Learning Engineer — 5G network anomaly detection | Oct 2024 – Jun 2025 |
+| **Asimov Jr.** | Data Science Lead → Full-Stack Developer | Nov 2023 – Oct 2024 |
+
+---
+
+## Certifications
+
+![AWS](https://img.shields.io/badge/AWS_Certified-AI_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Associate_Developer-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Linux Foundation](https://img.shields.io/badge/Linux_Foundation-LiFT_Scholar-0094FF?style=flat-square&logo=linuxfoundation&logoColor=white)
+
+Backend System Design · Foundations of Coding Full-Stack · Introduction to Front-End Development
+
+---
+
+## Coding Activity
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 22 August 2024 - To: 29 August 2026
-
-Total Time: 629 hrs 41 mins
-
-TypeScript                         322 hrs 26 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.78 %
-Python                             101 hrs 37 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.00 %
-JavaScript                         33 hrs 43 mins        ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.31 %
-Markdown                           25 hrs 3 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.95 %
-Bash                               15 hrs 35 mins        ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.46 %
-Java                               11 hrs 18 mins        ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.78 %
-R                                  9 hrs 21 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.47 %
-```
-
 <!--END_SECTION:waka-->
 
+---
+
+<details>
+<summary><b>🇧🇷 Versão em português</b></summary>
+
+<br>
+
+**Desenvolvedor Full-Stack** e estudante de Engenharia de Computação na UNIFEI, com **4 anos construindo produtos digitais** do levantamento de requisitos ao deploy, em fintech, edtech, indústria e Inteligência Artificial aplicada.
+
+Atuo no ciclo completo: modelagem de dados, construção de APIs REST, integração entre serviços, interfaces componentizadas em React e deploy em nuvem. Experiência prática com microsserviços, funções serverless, containers Docker e CI/CD, com atenção a código limpo, performance e escalabilidade.
+
+**Principais resultados**
+
+- Arquitetei o MVP do **Tech4Um**, plataforma de fórum e mensageria em tempo real — **1º lugar no Hackathon Ninja 2026**.
+- Desenvolvi o **TechFinance**, WebApp de gestão financeira — **1º lugar no TechLab 2025** da Tech4Humans.
+- Migrei funcionalidades legadas da **Tech for Humans** para arquitetura componentizada com microsserviços e Azure Functions.
+- Construí pipelines em Python que alimentam modelos de detecção antecipada de anomalias em **redes 5G** (P&D UNIFEI).
+- Gerei **mais de US$ 5.000** como freelancer na Fiverr, com aplicações web, bots e landing pages em React e Tailwind CSS.
+- Estruturei do zero a área de **Ciência de Dados da Asimov Jr.**, mentorando a equipe em Python e R.
+
+**Busco estágio ou vaga júnior como Desenvolvedor Full-Stack**, remoto ou híbrido, em times que valorizem qualidade de código, arquitetura sólida e produtos com impacto real.
+
+📫 **Contato:** [contato@brunobianchi.dev](mailto:contato@brunobianchi.dev) · [LinkedIn](https://www.linkedin.com/in/brunorbianchi) · [brunobianchi.dev](https://brunobianchi.dev)
+
+</details>
+
+<div align="center">
+
+<br>
+
+**Looking for a Full-Stack Developer?** I'm open to internship and junior roles — remote or hybrid.
+
+[![Get in touch](https://img.shields.io/badge/Get_in_touch-contato@brunobianchi.dev-0A0A0A?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:contato@brunobianchi.dev)
+
+</div>
