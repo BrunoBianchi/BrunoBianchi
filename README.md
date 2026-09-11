@@ -97,7 +97,7 @@ Backend System Design · Foundations of Coding Full-Stack · Introduction to Fro
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2024 - To: 10 September 2026
+From: 22 August 2024 - To: 11 September 2026
 
 Total Time: 629 hrs 41 mins
 
