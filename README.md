@@ -2,140 +2,92 @@
 
 # Bruno Bianchi
 
-### Full-Stack Developer · Node.js · React · TypeScript · Python
+**Full-Stack Developer** · TypeScript · Node.js · React · Python
 
-Computer Engineering student at **UNIFEI** · Building web products end-to-end, from requirements to deploy.
+Computer Engineering @ [UNIFEI](https://unifei.edu.br) · Itajubá, Brazil
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-brunobianchi.dev-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://brunobianchi.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-brunorbianchi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunorbianchi)
-[![Email](https://img.shields.io/badge/Email-contato@brunobianchi.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@brunobianchi.dev)
+[Portfolio](https://brunobianchi.dev) · [LinkedIn](https://www.linkedin.com/in/brunorbianchi) · [Email](mailto:contato@brunobianchi.dev)
 
 </div>
 
 ---
 
-## About
+### About
 
-Full-Stack Developer with **4 years building digital products** across fintech, edtech, industry and applied AI — from requirements gathering to production deploy.
+I build and ship full-stack products end-to-end — from data modeling and APIs to React UIs and cloud deploy.
 
-I work across the whole cycle: data modeling, REST APIs, service integration, component-based React interfaces and cloud deployment. Hands-on with microservices, serverless functions, Docker containers and CI/CD, with attention to clean code, performance and scalability.
+**4 years** shipping software across fintech, edtech, industry R&D and applied AI. Focused on clean architecture, performance and systems that stay maintainable in production.
 
-- 🏢 **Software Engineer @ Midea** — R&D speech-to-text + AI analysis POC (UNIFEI × Midea Carrier partnership)
-- 🎓 **Computer Engineering @ UNIFEI** — graduating Dec/2027
-- 🇧🇷 **Google Student Ambassador 2026** — Gemini and generative AI
-- ☁️ **Linux Foundation (LiFT) scholar** — training toward CKAD
-- 🏆 **2× hackathon winner** — TechLab 2025 and Hackathon Ninja 2026
-- 💼 Open to **internship / junior Full-Stack roles**, remote or hybrid
+Currently:
 
----
+- **Software Engineer @ Midea** — speech-to-text + generative-AI analysis for call-center automation (UNIFEI × Midea R&D)
+- **Computer Engineering @ UNIFEI** — expected Dec/2027
+- **Google Student Ambassador 2026** — Gemini & generative AI
+- **Linux Foundation LiFT Scholar** — path toward CKAD
+- **AWS Certified AI Practitioner** · MongoDB Associate Developer
 
-## Featured Projects &amp; Experience
-
-<img align="right" width="42%" src="./assets/experience.svg" alt="Experience timeline. Midea — Software Engineer, Speech-to-Text R&D, since Jun 2026, Node.js, React and Python. Fiverr — Freelance Full-Stack Developer, since Jan 2022, React, TypeScript and Tailwind CSS. Tech for Humans — Full-Stack Developer, Jun to Aug 2025, React, TypeScript and Azure Functions. Vertis Solutions — Machine Learning Engineer, Oct 2024 to Jun 2025, Python, data pipelines and ML. Asimov Jr. — Data Science Lead then Full-Stack Developer, Nov 2023 to Oct 2024, Angular, Node.js, Python and R.">
-
-<a href="https://github.com/BrunoBianchi/Tech4Um-Grupo02"><img width="50%" src="./assets/card-tech4um.svg" alt="Tech4Um — 1st place at Hackathon Ninja 2026. Real-time forum and messaging MVP with stateless JWT auth, fully containerized. Node.js, TypeScript, React and Socket.IO."></a>
-
-<a href="https://github.com/BrunoBianchi/Tech4Humans-Webapp-Financa"><img width="50%" src="./assets/card-techfinance.svg" alt="TechFinance — 1st place at TechLab 2025. Personal finance web app with MSC architecture, Redis caching and JWT auth. Node.js, TypeScript, React and PostgreSQL."></a>
-
-<a href="https://github.com/BrunoBianchi/Portyo"><img width="50%" src="./assets/card-portyo.svg" alt="Portyo — link-in-bio SaaS with custom domains, automated SSL and AI-scheduled posts. TypeScript, React Router, Express and Nginx. 175 commits, largest project."></a>
-
-<a href="https://github.com/BrunoBianchi/Google-Students-Embassador"><img width="50%" src="./assets/card-gsa.svg" alt="Student Ambassador Hub — campus directory, events portal and ambassador networking for Google Student Ambassadors Brazil, with Google OAuth sign-in. TypeScript, React Router, Node.js and Bun."></a>
-
-<a href="https://github.com/BrunoBianchi/midea-speech-to-text"><img width="50%" src="./assets/card-midea.svg" alt="Midea Speech-to-Text — R&D transcription and intelligent audio analysis for call-center automation, UNIFEI × Midea. Python, Flask, Whisper and generative AI."></a>
-
-<a href="https://github.com/BrunoBianchi/picpay-backend-challenge"><img width="50%" src="./assets/card-picpay.svg" alt="PicPay Backend Challenge — money-transfer REST API built on a modelled relational schema. TypeScript, Node.js and PostgreSQL."></a>
+Open to **internship / junior Full-Stack** roles (remote or hybrid).
 
 ---
 
-## Tech Stack
+### Selected work
 
-**Backend**
+| Project | What it is | Stack |
+|--------|------------|--------|
+| [**TechFinance**](https://github.com/BrunoBianchi/Tech4Humans-Webapp-Financa) | 1st place @ TechLab 2025 — personal finance web app (JWT, MSC, Redis, AI insights) | Node, TS, React, PostgreSQL, Docker |
+| [**Tech4Um**](https://github.com/BrunoBianchi/Tech4Um-Grupo02) | 1st place @ Hackathon Ninja 2026 — real-time forum & messaging MVP | Node, TS, React, Socket.IO, Docker |
+| [**Portyo**](https://github.com/BrunoBianchi/Portyo) | Multi-tenant link-in-bio SaaS — custom domains, SSL, AI-scheduled posts | React Router, Express, TypeORM, Nginx |
+| [**Midea STT**](https://github.com/BrunoBianchi/midea-speech-to-text) | R&D monorepo — Whisper STT, noise removal, AI analysis | Node, Flask, Python, Whisper |
+| [**GSA Brazil Hub**](https://github.com/BrunoBianchi/Google-Students-Ambassador) | Campus directory, events & networking for Google Student Ambassadors BR | TS, React Router, Node, OAuth |
+| [**PicPay Challenge**](https://github.com/BrunoBianchi/picpay-backend-challenge) | Money-transfer REST API on a modelled relational schema | TypeScript, Node.js |
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Data & Cloud**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-**Practices** — Clean Code · Clean Architecture · SOLID · REST API design · Code Review · Scrum
+Also: freelance client deliveries (e.g. [Dra. Mariana Bianchi](https://github.com/BrunoBianchi/DraMarianaBianchi)), auth APIs, Redis job queues, and ongoing DSA practice in [`Leetcode-DSA`](https://github.com/BrunoBianchi/Leetcode-DSA).
 
 ---
 
-## Certifications
+### Experience (highlights)
 
-![AWS](https://img.shields.io/badge/AWS_Certified-AI_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Associate_Developer-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Linux Foundation](https://img.shields.io/badge/Linux_Foundation-LiFT_Scholar-0094FF?style=flat-square&logo=linuxfoundation&logoColor=white)
-
-Backend System Design · Foundations of Coding Full-Stack · Introduction to Front-End Development
+- **Midea** — Software Engineer (R&D): STT + AI analysis POC for call-center automation
+- **Tech for Humans** — Full-Stack: migrated legacy features to componentized services & Azure Functions
+- **Vertis Solutions** — ML Engineer: Python pipelines for early anomaly detection on **5G networks** (UNIFEI P&D)
+- **Asimov Jr.** — Data Science Lead → Full-Stack: built the DS area from scratch; mentored Python/R
+- **Fiverr** — Freelance Full-Stack since 2022: web apps, bots, landing pages — **US$ 5k+** earned
 
 ---
 
-## Coding Activity
+### Stack
 
-<!--START_SECTION:waka-->
+`TypeScript` · `Node.js` · `NestJS` · `Express` · `React` · `Angular` · `Python`  
+`PostgreSQL` · `MongoDB` · `Redis` · `Docker` · `AWS` · `Azure` · `CI/CD`  
+Practices: Clean Code · Clean Architecture · SOLID · REST · Code Review · Scrum
 
-```txt
-From: 22 August 2024 - To: 20 September 2026
+---
 
-Total Time: 629 hrs 41 mins
+### Stats
 
-TypeScript                         322 hrs 26 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.78 %
-Python                             101 hrs 37 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.00 %
-JavaScript                         33 hrs 43 mins        ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.31 %
-Markdown                           25 hrs 3 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.95 %
-Bash                               15 hrs 35 mins        ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.46 %
-Java                               11 hrs 18 mins        ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.78 %
-R                                  9 hrs 21 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.47 %
-```
-
-<!--END_SECTION:waka-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoBianchi&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBianchi&layout=compact&theme=transparent&hide_border=true&langs_count=6)
 
 ---
 
 <details>
-<summary><b>🇧🇷 Versão em português</b></summary>
+<summary><b>🇧🇷 Português</b></summary>
 
 <br>
 
-**Desenvolvedor Full-Stack** e estudante de Engenharia de Computação na UNIFEI, com **4 anos construindo produtos digitais** do levantamento de requisitos ao deploy, em fintech, edtech, indústria e Inteligência Artificial aplicada.
+Desenvolvedor **Full-Stack** e estudante de Engenharia de Computação na **UNIFEI**, com **4 anos** construindo produtos digitais do requisito ao deploy — fintech, edtech, indústria e IA aplicada.
 
-Atuo no ciclo completo: modelagem de dados, construção de APIs REST, integração entre serviços, interfaces componentizadas em React e deploy em nuvem. Experiência prática com microsserviços, funções serverless, containers Docker e CI/CD, com atenção a código limpo, performance e escalabilidade.
+**Resultados**
+- MVP **Tech4Um** (fórum/mensageria em tempo real) — **1º lugar, Hackathon Ninja 2026**
+- **TechFinance** — **1º lugar, TechLab 2025** (Tech4Humans)
+- **Portyo** — SaaS multi-tenant de link-in-bio com SSL e conteúdo por IA
+- Pipelines Python para anomalias em **redes 5G** (P&D UNIFEI)
+- **+US$ 5.000** como freelancer na Fiverr
+- Estruturei a área de Ciência de Dados da **Asimov Jr.**
 
-**Principais resultados**
+Busco **estágio ou júnior Full-Stack**, remoto ou híbrido.
 
-- Arquitetei o MVP do **Tech4Um**, plataforma de fórum e mensageria em tempo real — **1º lugar no Hackathon Ninja 2026**.
-- Desenvolvi o **TechFinance**, WebApp de gestão financeira — **1º lugar no TechLab 2025** da Tech4Humans.
-- Construí o **Portyo**, SaaS multi-tenant de link-in-bio com domínios personalizados, SSL automatizado e geração de conteúdo por IA.
-- Migrei funcionalidades legadas da **Tech for Humans** para arquitetura componentizada com microsserviços e Azure Functions.
-- Construí pipelines em Python que alimentam modelos de detecção antecipada de anomalias em **redes 5G** (P&D UNIFEI).
-- Gerei **mais de US$ 5.000** como freelancer na Fiverr, com aplicações web, bots e landing pages em React e Tailwind CSS.
-- Estruturei do zero a área de **Ciência de Dados da Asimov Jr.**, mentorando a equipe em Python e R.
-
-**Busco estágio ou vaga júnior como Desenvolvedor Full-Stack**, remoto ou híbrido, em times que valorizem qualidade de código, arquitetura sólida e produtos com impacto real.
-
-📫 **Contato:** [contato@brunobianchi.dev](mailto:contato@brunobianchi.dev) · [LinkedIn](https://www.linkedin.com/in/brunorbianchi) · [brunobianchi.dev](https://brunobianchi.dev)
+📫 [contato@brunobianchi.dev](mailto:contato@brunobianchi.dev) · [LinkedIn](https://www.linkedin.com/in/brunorbianchi) · [brunobianchi.dev](https://brunobianchi.dev)
 
 </details>
 
@@ -143,8 +95,8 @@ Atuo no ciclo completo: modelagem de dados, construção de APIs REST, integraç
 
 <br>
 
-**Looking for a Full-Stack Developer?** I'm open to internship and junior roles — remote or hybrid.
+**Looking for a Full-Stack developer?** Open to internship and junior roles.
 
-[![Get in touch](https://img.shields.io/badge/Get_in_touch-contato@brunobianchi.dev-0A0A0A?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:contato@brunobianchi.dev)
+[Get in touch →](mailto:contato@brunobianchi.dev)
 
 </div>
