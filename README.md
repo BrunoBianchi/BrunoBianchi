@@ -21,7 +21,7 @@ I build and ship full-stack products end-to-end — from data modeling and APIs 
 Currently:
 
 - **Software Engineer @ Midea** (R&D) — speech-to-text + generative-AI analysis for call-center automation (UNIFEI × Midea · Pouso Alegre, hybrid)
-- **Computer Engineering @ UNIFEI** — Mar/2023 → Dec/2027
+- **Computer Engineering @ UNIFEI** — Mar/2023 → jul/2028
 - **Google Student Ambassador 2026** · **AWS Student Builder Group Leader**
 - **Linux Foundation LiFT Scholar** — path toward CKAD
 - **AWS Certified AI Practitioner** · MongoDB Associate Developer · **2× hackathon winner**
