@@ -1,105 +1,48 @@
-<div align="center">
+# Oi, eu sou o Bruno Bianchi
 
-# Bruno Bianchi
+Estudante de Engenharia de Computação na [UNIFEI](https://unifei.edu.br), com previsão de formatura em jul/2028, e desenvolvedor full-stack. Gosto de pegar um problema real, entender a regra de negócio e entregar do banco de dados até a interface, com testes e decisões documentadas.
 
-**Full-Stack Developer** · TypeScript · Node.js · React · Angular · Python
+[Portfólio](https://brunobianchi.dev) · [LinkedIn](https://www.linkedin.com/in/brunorbianchi) · [E-mail](mailto:contato@brunobianchi.dev)
 
-Computer Engineering @ [UNIFEI](https://unifei.edu.br) · Jundiaí / Itajubá, Brazil
+## O que estou fazendo agora
+- **Midea R&D (parceria UNIFEI):** PoC de speech-to-text para o call center, com redução de ruído, transcrição com Whisper, remoção de dados pessoais (LGPD) e análise por LLM. O projeto está em fase de testes na empresa, então ainda não tenho métricas para divulgar.
+- **Comunidade:** Google Student Ambassador 2026 e AWS Student Builder Group Leader.
+- **Estudo:** Linux Foundation LiFT Scholar, rumo ao CKAD.
 
-[Portfolio](https://brunobianchi.dev) · [LinkedIn](https://www.linkedin.com/in/brunorbianchi) · [Email](mailto:contato@brunobianchi.dev)
+## Como eu uso IA
+Uso IA como ferramenta de engenharia, não como piloto automático. No dia a dia, trabalho com **Claude** e **Kiro**.
+- **Specs antes do código:** no projeto da Midea escrevi requisitos, design e tarefas com o Kiro antes de implementar ([.kiro/specs](https://github.com/BrunoBianchi/midea-speech-to-text/tree/main/.kiro/specs/system-design)).
+- **LLM dentro do produto:** chat financeiro com Llama via Groq no TechFinance, geração e pontuação de posts com prompts tipados em BAML no Portyo, análise de prompts guiada pela estratégia TCREI no BetterPrompt.
+- **Validação humana:** o que a IA gera passa por testes automatizados e pela minha revisão antes de entrar no código.
 
-</div>
+## Projetos em destaque
+| Projeto | O que é | Destaques de engenharia |
+|---|---|---|
+| [TechFinance](https://github.com/BrunoBianchi/Tech4Humans-Webapp-Financa) | 1º lugar no TechLab 2025 (Tech4Humans). App de finanças pessoais com contas, cartões, transações e assistente de IA | Fila FIFO de transações com Redis/Bull, validação em 3 camadas (front, Zod, PostgreSQL), JWT em cookie HttpOnly, rate limit, testes unitários com Jest |
+| [Midea Speech-to-Text](https://github.com/BrunoBianchi/midea-speech-to-text) | PoC de transcrição e análise de ligações do call center (em andamento) | Python + FastAPI + faster-whisper, gateway Node com SSE, contratos compartilhados, specs com Kiro, Conventional Commits, semantic-release, pytest |
+| [BetterPrompt](https://github.com/BrunoBianchi/BetterPrompt) | Marketplace colaborativo de prompts com teste e análise por LLM | API versionada, Google OAuth + JWT, 15 arquivos de teste (bun test) incluindo o serviço de IA |
+| [Portyo](https://github.com/BrunoBianchi/Portyo) | SaaS multi-tenant de link-in-bio com domínios próprios e posts gerados por IA | Nginx catch-all + SSL por domínio, cron de agendamento, prompts em BAML, Groq (Llama 3.3 70B) |
+| [Tech4Um](https://github.com/BrunoBianchi/Tech4Um-Grupo02) | 1º lugar no Hackathon Ninja 2026, time de 3. Fórum com chat em tempo real | Socket.IO com handshake JWT, PostgreSQL, Docker Compose, validação com Zod |
+| [GSA Brazil Hub](https://github.com/BrunoBianchi/Google-Students-Ambassador) | Plataforma da comunidade de Google Student Ambassadors no Brasil | React Router, Node/Bun, Google OAuth, testes de backend |
 
----
+## Experiência
+- **Midea (R&D, parceria UNIFEI):** PoC de STT + IA com um time de 5 estudantes e stakeholders da Midea.
+- **Tech for Humans:** migração de funcionalidades legadas para serviços componentizados e Azure Functions.
+- **Vertis Solutions (P&D UNIFEI):** pipelines em Python para detecção precoce de anomalias em redes 5G.
+- **Asimov Jr.:** estruturei a área de Ciência de Dados e fui mentor de Python e R.
+- **Freelancer na Fiverr desde 2022:** aplicações web, bots e landing pages.
 
-### About
+## Stack
+**Linguagens:** TypeScript, JavaScript, Python, Java, SQL  
+**Back-end:** Node.js, Express, NestJS, FastAPI  
+**Front-end:** React, React Router, Angular, Tailwind  
+**Dados:** PostgreSQL, MongoDB, Redis  
+**Infra:** Docker, Nginx, AWS, Azure, GitHub Actions  
+**Qualidade:** Jest, Vitest, bun test, pytest, ESLint, Husky, Conventional Commits  
+**IA no desenvolvimento:** Claude, Kiro
 
-I build and ship full-stack products end-to-end — from data modeling and APIs to React/Angular UIs and cloud deploy.
+## Certificações
+AWS Certified AI Practitioner · MongoDB Associate Developer
 
-**4 years** shipping software across fintech, edtech, industry R&D and applied AI. Focused on clean architecture, performance and systems that stay maintainable in production.
-
-Currently:
-
-- **Software Engineer @ Midea** (R&D) — speech-to-text + generative-AI analysis for call-center automation (UNIFEI × Midea · Pouso Alegre, hybrid)
-- **Computer Engineering @ UNIFEI** — Mar/2023 → jul/2028
-- **Google Student Ambassador 2026** · **AWS Student Builder Group Leader**
-- **Linux Foundation LiFT Scholar** — path toward CKAD
-- **AWS Certified AI Practitioner** · MongoDB Associate Developer · **2× hackathon winner**
-
-Open to **internship / junior Full-Stack** roles (remote or hybrid).
-
----
-
-### Selected work
-
-| Project | What it is | Stack |
-|--------|------------|--------|
-| [**TechFinance**](https://github.com/BrunoBianchi/Tech4Humans-Webapp-Financa) | 1st place @ TechLab 2025 — personal finance web app (JWT, MSC, Redis, AI insights) | Node, TS, React, PostgreSQL, Docker |
-| [**Tech4Um**](https://github.com/BrunoBianchi/Tech4Um-Grupo02) | 1st place @ Hackathon Ninja 2026 — real-time forum & messaging MVP | Node, TS, React, Socket.IO, Docker |
-| [**Portyo**](https://github.com/BrunoBianchi/Portyo) | Multi-tenant link-in-bio SaaS — custom domains, SSL, AI-scheduled posts | React Router, Express, TypeORM, Nginx |
-| [**Midea STT**](https://github.com/BrunoBianchi/midea-speech-to-text) | R&D monorepo — Whisper STT, noise removal, AI analysis for call-center ops | Node, Flask, Python, Whisper |
-| [**GSA Brazil Hub**](https://github.com/BrunoBianchi/Google-Students-Ambassador) | Campus directory, events & networking for Google Student Ambassadors BR | TS, React Router, Node, OAuth |
-| [**PicPay Challenge**](https://github.com/BrunoBianchi/picpay-backend-challenge) | Money-transfer REST API on a modelled relational schema | TypeScript, Node.js |
-
-Also: freelance client deliveries (e.g. [Dra. Mariana Bianchi](https://github.com/BrunoBianchi/DraMarianaBianchi)), auth APIs, Redis job queues, and DSA practice in [`Leetcode-DSA`](https://github.com/BrunoBianchi/Leetcode-DSA).
-
----
-
-### Experience (highlights)
-
-- **Midea** — Software Engineer (R&D): POC STT + AI analysis with a 5-student team and Midea stakeholders; requirements → MVP (240h semester project)
-- **Fiverr** — Freelance Full-Stack since 2022: web apps, Discord bots, landing pages — **US$ 5k+** earned
-- **Tech for Humans** — Full-Stack: migrated legacy features to componentized services & Azure Functions
-- **Vertis Solutions** — ML Engineer: Python pipelines for early anomaly detection on **5G networks** (UNIFEI P&D)
-- **Asimov Jr.** — Data Science Lead → Full-Stack: built the DS area from scratch; mentored Python/R
-
----
-
-### Stack
-
-`TypeScript` · `Node.js` · `NestJS` · `Express` · `React` · `Angular` · `Java` · `Python`  
-`PostgreSQL` · `MongoDB` · `Redis` · `Docker` · `AWS` · `Azure` · `CI/CD`  
-Practices: Clean Code · Clean Architecture · SOLID · REST · Code Review · Scrum
-
----
-
-### Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoBianchi&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBianchi&layout=compact&theme=transparent&hide_border=true&langs_count=6)
-
----
-
-<details>
-<summary><b>🇧🇷 Português</b></summary>
-
-<br>
-
-Desenvolvedor **Full-Stack** e estudante de Engenharia de Computação na **UNIFEI** (mar/2023 – dez/2027), com **4 anos** construindo produtos digitais do requisito ao deploy — fintech, edtech, indústria e IA aplicada.
-
-**Resultados**
-- MVP **Tech4Um** — **1º lugar, Hackathon Ninja 2026**
-- **TechFinance** — **1º lugar, TechLab 2025** (Tech4Humans)
-- **Portyo** — SaaS multi-tenant de link-in-bio com SSL e conteúdo por IA
-- POC **Speech-to-Text + IA** na **Midea** (parceria UNIFEI)
-- Pipelines Python para anomalias em **redes 5G** (P&D UNIFEI)
-- **+US$ 5.000** como freelancer na Fiverr
-- Estruturei a área de Ciência de Dados da **Asimov Jr.**
-
-**AWS Student Builder Group Leader** · Google Student Ambassador · AWS Certified AI Practitioner
-
-Busco **estágio ou júnior Full-Stack**, remoto ou híbrido.
-
-📫 [contato@brunobianchi.dev](mailto:contato@brunobianchi.dev) · [LinkedIn](https://www.linkedin.com/in/brunorbianchi) · [brunobianchi.dev](https://brunobianchi.dev)
-
-</details>
-
-<div align="center">
-
-<br>
-
-**Looking for a Full-Stack developer?** Open to internship and junior roles.
-
-[Get in touch →](mailto:contato@brunobianchi.dev)
-
-</div>
+## Em busca de
+Estágio em engenharia de software, com interesse em produtos financeiros e IA aplicada.
