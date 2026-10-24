@@ -1,11 +1,13 @@
 # Oi, eu sou o Bruno Bianchi
 
-Estudante de Engenharia de Computação na [UNIFEI](https://unifei.edu.br), com previsão de formatura em jul/2028, e desenvolvedor full-stack. Gosto de pegar um problema real, entender a regra de negócio e entregar do banco de dados até a interface, com testes e decisões documentadas.
+**Engenharia de Software e IA aplicada (LLMs, Speech-to-Text) · Python, SQL, TypeScript, Node.js · AWS Certified AI Practitioner · 2x 1º lugar em hackathon**
 
-[Portfólio](https://brunobianchi.dev) · [LinkedIn](https://www.linkedin.com/in/brunorbianchi) · [E-mail](mailto:contato@brunobianchi.dev)
+Estudante de Engenharia de Computação na [UNIFEI](https://unifei.edu.br), com previsão de formatura em jul/2028, e desenvolvedor de software com foco em IA aplicada. Moro em Jundiaí, SP. Gosto de pegar um problema real, entender a regra de negócio e entregar do banco de dados até a interface, com testes e decisões documentadas.
+
+[Portfólio](https://brunobianchi.dev) · [LinkedIn](https://www.linkedin.com/in/brunorbianchi) · [bruno.raiadobian@gmail.com](mailto:bruno.raiadobian@gmail.com)
 
 ## O que estou fazendo agora
-- **Midea R&D (parceria UNIFEI):** PoC de speech-to-text para o call center, com redução de ruído, transcrição com Whisper, remoção de dados pessoais (LGPD) e análise por LLM. O projeto está em fase de testes na empresa, então ainda não tenho métricas para divulgar.
+- **Projeto acadêmico UNIFEI x Midea (240h, time de 5):** PoC de speech-to-text para o call center, com redução de ruído, transcrição com Whisper, remoção de dados pessoais (LGPD) e análise por LLM. O projeto está em fase de testes na empresa, então ainda não tenho métricas para divulgar.
 - **Comunidade:** Google Student Ambassador 2026 e AWS Student Builder Group Leader.
 - **Estudo:** Linux Foundation LiFT Scholar, rumo ao CKAD.
 
@@ -22,18 +24,18 @@ Uso IA como ferramenta de engenharia, não como piloto automático. No dia a dia
 | [Midea Speech-to-Text](https://github.com/BrunoBianchi/midea-speech-to-text) | PoC de transcrição e análise de ligações do call center (em andamento) | Python + FastAPI + faster-whisper, gateway Node com SSE, contratos compartilhados, specs com Kiro, Conventional Commits, semantic-release, pytest |
 | [BetterPrompt](https://github.com/BrunoBianchi/BetterPrompt) | Marketplace colaborativo de prompts com teste e análise por LLM | API versionada, Google OAuth + JWT, 15 arquivos de teste (bun test) incluindo o serviço de IA |
 | [Portyo](https://github.com/BrunoBianchi/Portyo) | SaaS multi-tenant de link-in-bio com domínios próprios e posts gerados por IA | Nginx catch-all + SSL por domínio, cron de agendamento, prompts em BAML, Groq (Llama 3.3 70B) |
-| [Tech4Um](https://github.com/BrunoBianchi/Tech4Um-Grupo02) | 1º lugar no Hackathon Ninja 2026, time de 3. Fórum com chat em tempo real | Socket.IO com handshake JWT, PostgreSQL, Docker Compose, validação com Zod |
+| [Tech4Um](https://github.com/BrunoBianchi/Tech4Um-Grupo02) | 1º lugar no Hackathon Ninja Startup Job 2026, time de 3. Fórum com chat em tempo real | Socket.IO com handshake JWT, PostgreSQL, Docker Compose, validação com Zod |
 | [GSA Brazil Hub](https://github.com/BrunoBianchi/Google-Students-Ambassador) | Plataforma da comunidade de Google Student Ambassadors no Brasil | React Router, Node/Bun, Google OAuth, testes de backend |
 
 ## Experiência
-- **Midea (R&D, parceria UNIFEI):** PoC de STT + IA com um time de 5 estudantes e stakeholders da Midea.
+- **Projeto acadêmico UNIFEI x Midea:** PoC de STT + IA com um time de 5 estudantes e stakeholders da Midea.
 - **Tech for Humans:** migração de funcionalidades legadas para serviços componentizados e Azure Functions.
 - **Vertis Solutions (P&D UNIFEI):** pipelines em Python para detecção precoce de anomalias em redes 5G.
 - **Asimov Jr.:** estruturei a área de Ciência de Dados e fui mentor de Python e R.
 - **Freelancer na Fiverr desde 2022:** aplicações web, bots e landing pages.
 
 ## Stack
-**Linguagens:** TypeScript, JavaScript, Python, Java, SQL  
+**Linguagens:** Python, SQL, TypeScript, JavaScript  
 **Back-end:** Node.js, Express, NestJS, FastAPI  
 **Front-end:** React, React Router, Angular, Tailwind  
 **Dados:** PostgreSQL, MongoDB, Redis  
